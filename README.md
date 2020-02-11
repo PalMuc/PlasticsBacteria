@@ -5,8 +5,11 @@
 Elsa Girard 1, Wolfgang W. Schmahl 1,2,3, Gert Wörheide 1,3,4 and William D. Orsi 1,2
 
 1 Department of Earth and Environmental Sciences, Ludwig-Maximilians-Universität München, 80333 Munich, Germany
+
 2 SNSB - Mineralogische Staatssammlung München, 80333 München, Germany
+
 3 GeoBio-CenterLMU, Ludwig-Maximilians-Universität München, 80333 Munich, Germany
+
 4 SNSB - Bayerische Staatssammlung für Paläontologie und Geologie, 80333 Munich, Germany
 
 
